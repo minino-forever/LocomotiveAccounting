@@ -141,6 +141,7 @@ namespace LocomotiveAccounting
                         Console.WriteLine("До свидания!");
 
                         break;
+
                     }
                     else
                     {
